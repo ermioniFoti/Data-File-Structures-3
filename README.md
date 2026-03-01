@@ -1,4 +1,4 @@
-# Text File Search & Indexing with B+-Trees
+# Text File Search & Indexing with B+ Trees
 
 A high-performance text indexing and retrieval system designed to manage and search through large text files efficiently. This project was developed as the **3rd Assignment** for the **Data Structures and Algorithms** course at the **Technical University of Crete** (Spring 2023).
 
